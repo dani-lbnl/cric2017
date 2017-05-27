@@ -1,2 +1,3 @@
-# cric2017
-CRIC 2017 event - Science Without of Border
+# CRIC 2017
+CRIC 2017 event - a Science Without of Border
+Full Agenda: check [here](https://sites.google.com/view/cric)
