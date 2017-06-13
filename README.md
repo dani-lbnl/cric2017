@@ -3,6 +3,11 @@
 - June 25 to 30, 2017 - Fortaleza - CE
 - Full Agenda: check [here](https://sites.google.com/view/cric)
 
+## Pre-meeting
+- ERIPI - Picos, PI
+- Minicursos [Romuere Silva]() [Flavio Araujo]()
+- Keynote [Dani Ushizima]()
+
 ## Prepare for the meeting
 - software installation [here](http://www.imagexd.org/2017/03/20/tutorial-materials.html)
 - update your abstract
