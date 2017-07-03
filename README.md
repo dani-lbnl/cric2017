@@ -8,15 +8,12 @@
 - ERIPI - Picos, PI - June 12-14th
 - Course Convolutional Neural Networks in python [Flavio Araujo]()
 - Course: Computer vision in python [Romuere Silva]()
-- Keynote [Dani Ushizima]()
+- Keynote: [Dani Ushizima]()
+- Outreach: Hack-a-motherboard [pdf]()
 
 ## Prepare for the meeting
 - software installation [here](http://www.imagexd.org/2017/03/20/tutorial-materials.html)
-- update your abstract
-
-## Hackathon
-- tutorial [here]()
-
+- check pre-meeting courses
 
 ## Past meetings
 - CRIC Hackathon [2016](https://github.com/dani-lbnl/cancerCervicalHack): segmentation challenge
