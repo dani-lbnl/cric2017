@@ -6,8 +6,8 @@
 
 ## Pre-meeting
 - ERIPI - Picos, PI - June 12-14th
-- Course Convolutional Neural Networks in python [Flavio Araujo]()
-- Course: Computer vision in python [Romuere Silva]()
+- Course Convolutional Neural Networks in python [Flavio Araujo](https://github.com/flavio86/Tutoriais-CNN)
+- Course: Computer vision in python [Romuere Silva](https://github.com/romuere/databases/tree/master/eripi)
 - Keynote: [Dani Ushizima]()
 - Outreach: Hack-a-motherboard [pdf]()
 
