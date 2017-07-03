@@ -9,7 +9,7 @@
 - Course Convolutional Neural Networks in python [Flavio Araujo](https://github.com/flavio86/Tutoriais-CNN)
 - Course: Computer vision in python [Romuere Silva](https://github.com/romuere/databases/tree/master/eripi)
 - Keynote: [Dani Ushizima]()
-- Outreach: Hack-a-motherboard [pdf]()
+- Outreach: Hack-a-motherboard [pdf](https://github.com/dani-lbnl/cric2017/blob/master/ERIPI/HackAMotherboard.pdf)
 
 ## Prepare for the meeting
 - software installation [here](http://www.imagexd.org/2017/03/20/tutorial-materials.html)
