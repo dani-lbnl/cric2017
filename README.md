@@ -1,4 +1,28 @@
-# CRIC 2017 - Fortaleza - CE
+# CRIC 2017 - 
+
+# Visit #2
+## Sao Jose dos Campos - SP
+- Federal University of Sao Paulo (UNIFESP)
+- Lecture: [Dani Ushizima]()
+
+## Ouro Preto - MG
+- CRIC pathology
+- A Science Without of Borders research project event
+- Conference:
+- Business training:
+- Keynote: [Dani Ushizima]()
+
+## Parnaiba - PI
+- ENUCOMP - 10 years celebration
+- Keynote: [Dani Ushizima]()
+
+## Pre-meeting
+- Federal University of Teresina, PI
+- Lecture: [Dani Ushizima]()
+
+# Visit #1
+## Fortaleza - CE
+- CRIC engineering
 - A Science Without of Borders research project event
 - Conference: June 25-28th
 - Hackathon: July 3rd-4th
