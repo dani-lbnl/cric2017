@@ -3,22 +3,18 @@
 # Visit #2
 ## Sao Jose dos Campos - SP
 - Federal University of Sao Paulo (UNIFESP)
-- Lecture: [Dani Ushizima]()
+- Lecture: 
 
 ## Ouro Preto - MG
 - CRIC pathology
 - A Science Without of Borders research project event
 - Conference:
 - Business training:
-- Keynote: [Dani Ushizima]()
+- Keynote: 
 
 ## Parnaiba - PI
 - ENUCOMP - 10 years celebration
-- Keynote: [Dani Ushizima]()
-
-## Pre-meeting
-- Federal University of Teresina, PI
-- Lecture: [Dani Ushizima]()
+- Keynote: [Ushizima's draft](https://drive.google.com/file/d/0BxuHO4P9XUR5WTBLRFA4Y0xEUkk/view)
 
 # Visit #1
 ## Fortaleza - CE
