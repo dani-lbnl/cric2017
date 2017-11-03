@@ -10,7 +10,7 @@
 - A Science Without of Borders research project event
 - Conference:
 - Business training:
-- Keynote: 
+- Lecture: [Biotecnology Graduate Class](https://github.com/dani-lbnl/cric2017/blob/master/UFOP/curso/CRIC_QuantitativeMicroscopy2017_DaniUshizima_lecture-ufop.pdf)  
 
 ## Parnaiba - PI
 - ENUCOMP - 10 years celebration
