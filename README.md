@@ -1,9 +1,6 @@
-# CRIC 2017 - 
+# CRIC 2017 -
 
 # Visit #2
-## Sao Jose dos Campos - SP
-- Federal University of Sao Paulo (UNIFESP)
-- Lecture: 
 
 ## Ouro Preto - MG
 - CRIC pathology
@@ -16,13 +13,15 @@
 - ENUCOMP - 10 years celebration
 - Keynote: [Ushizima's draft](https://drive.google.com/file/d/0BxuHO4P9XUR5WTBLRFA4Y0xEUkk/view)
 
+## Sao Jose dos Campos - SP
+- Federal University of Sao Paulo (UNIFESP)
+- Lecture:
+
 # Visit #1
-## Fortaleza - CE
-- CRIC engineering
-- A Science Without of Borders research project event
-- Conference: June 25-28th
-- Hackathon: July 3rd-4th
-- Full Agenda: check [here](https://sites.google.com/view/cric)
+
+## Prepare for the Pre-meeting
+- software installation [here](http://www.imagexd.org/2017/03/20/tutorial-materials.html)
+- check pre-meeting courses
 
 ## Pre-meeting
 - ERIPI - Picos, PI - June 12-14th
@@ -31,9 +30,12 @@
 - Keynote: [Dani Ushizima]()
 - Outreach: Hack-a-motherboard [pdf](https://github.com/dani-lbnl/cric2017/blob/master/ERIPI/HackAMotherboard.pdf)
 
-## Prepare for the meeting
-- software installation [here](http://www.imagexd.org/2017/03/20/tutorial-materials.html)
-- check pre-meeting courses
+## Fortaleza - CE
+- CRIC engineering
+- A Science Without of Borders research project event
+- Conference: June 25-28th
+- Hackathon: July 3rd-4th
+- Full Agenda: check [here](https://sites.google.com/view/cric)
 
 ## Past meetings
 - CRIC Hackathon [2016](https://github.com/dani-lbnl/cancerCervicalHack): segmentation challenge
