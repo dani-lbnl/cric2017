@@ -1,3 +1,0 @@
-Microscopia quantitativa: dados massivos e novas ferramentas
-
-A vida em laboratório nos leva a colecionarmos dados experimentais usando diversos instrumentos, muitos deles gerando imagens digitais. À medida que a qualidade dos dados melhora, geramos quantidade de dados crescente, mas raramente conseguimos processa-los em sua totalidade sem ferramentas especificas para extrair padrões geométricos e fotométricos das imagens. Esse mini-curso explica como criar programas para processar imagens digitais e acelerar a análise de estruturas microscopicas. Ferramentas a discutir incluem: ImageJ/Fiji, weka, python, e R, alem de imagens da base de dados CRIC, criada e mantida pela UFOP.
