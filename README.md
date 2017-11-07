@@ -1,4 +1,4 @@
-# CRIC 2017 -
+# CRIC 2017 - Social Entrepreneurship through Intelligent Healthcare Solutions
 
 # Visit #2
 
